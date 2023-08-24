@@ -10,5 +10,5 @@
 
 
 <style>
-
+@import '/css/main.css';
 </style>
